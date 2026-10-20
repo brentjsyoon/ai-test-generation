@@ -7,6 +7,8 @@
 
 # Overview
 
+https://github.com/user-attachments/assets/fe8762ab-b055-47be-b21a-ef6a74a175aa
+
 This project is an **AI-enhanced Playwright test automation framework** built to test the **Zero Bank demo banking application**.
 
 The framework combines **modern automation practices** with **AI-driven testing techniques** to improve:
